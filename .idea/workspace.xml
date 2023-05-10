@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea613d0c-1b9a-48f8-91e0-868de6f26934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/progsolcomp-live-lista2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/progsolcomp-live-lista2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PWxxkA0zf17NwdmR8AXqIxC2oE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,9 +52,9 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/amandamendes/Documents/faculdade/progsolcomp-live-lista2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex10">
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex10" />
+  <component name="RunManager" selected="Application.Ex21">
+    <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex17" />
       <module name="progsolcomp-live-lista2" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex6" />
+    <configuration name="Ex18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex18" />
       <module name="progsolcomp-live-lista2" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex7" />
+    <configuration name="Ex19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex19" />
       <module name="progsolcomp-live-lista2" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex8" />
+    <configuration name="Ex20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex20" />
       <module name="progsolcomp-live-lista2" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex9" />
+    <configuration name="Ex21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Ex21" />
       <module name="progsolcomp-live-lista2" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex9" />
-        <item itemvalue="Application.Ex8" />
-        <item itemvalue="Application.Ex7" />
-        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex21" />
+        <item itemvalue="Application.Ex20" />
+        <item itemvalue="Application.Ex19" />
+        <item itemvalue="Application.Ex18" />
+        <item itemvalue="Application.Ex17" />
       </list>
     </recent_temporary>
   </component>
