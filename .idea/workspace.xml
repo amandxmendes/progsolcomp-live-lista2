@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea613d0c-1b9a-48f8-91e0-868de6f26934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/progsolcomp-live-lista2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/progsolcomp-live-lista2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea613d0c-1b9a-48f8-91e0-868de6f26934" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
